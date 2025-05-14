@@ -49,9 +49,11 @@ The dataset includes:
    cd Temperature-Prediction
 
 2. Install required packages:
-   pip install -r requirements.txt
+   ```bash
+      pip install -r requirements.txt
 
-3. Open the notebook:   
-   jupyter notebook Temperature\ Prediction_Test.ipynb
+4. Open the notebook:
+   ```bash
+      jupyter notebook Temperature\ Prediction_Test.ipynb
 
 ## **By - SOHAM K** 
