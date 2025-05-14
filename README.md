@@ -54,4 +54,4 @@ The dataset includes:
 3. Open the notebook:   
    jupyter notebook Temperature\ Prediction_Test.ipynb
 
-By - SOHAM K 
+## **By - SOHAM K** 
